@@ -21,7 +21,7 @@ repository               : "dogoulis/dogoulis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1655640609732.jpeg"
   name             : "Pantelis Dogoulis"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Physics Informed Machine Learning"
