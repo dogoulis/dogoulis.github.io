@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Panteleimon (Pantelis) Tsampikos Dogoulis / PhD Candidate in Physics Informed Machine Learning"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
